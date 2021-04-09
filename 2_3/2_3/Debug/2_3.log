@@ -1,0 +1,4 @@
+﻿  2_3.cpp
+d:\users\student\desktop\2_3\2_3\2_3.cpp(433): warning C4838: преобразование из "float" в "int" требует сужающего преобразования
+d:\users\student\desktop\2_3\2_3\2_3.cpp(433): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  2_3.vcxproj -> D:\Users\student\Desktop\2_3\Debug\2_3.exe
